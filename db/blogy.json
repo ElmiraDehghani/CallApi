@@ -1,0 +1,475 @@
+{
+    "stories":[
+        {
+            "id": 1,
+            "title": "New technology is not good or evil in and of itself",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "tags": [
+                {
+                    "id": 1,
+                    "name": "Design"
+                },
+                {
+                    "id": 2,
+                    "name": "Idea"
+                },
+                {
+                    "id": 3,
+                    "name": "Review"
+                }
+            ],
+            "authors": [
+                {
+                    "id": 1,
+                    "name": "Jack",
+                    "profile_photo": "./assets/images/author-1.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "Sarah",
+                    "profile_photo": "./assets/images/author-2.jpg"
+                }
+            ],
+            "featured_image": "./assets/images/featured-1.jpg"
+        },
+        {
+            "id": 2,
+            "title": "It’s a new era in design, there are no rules",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "tags": [
+                {
+                    "id": 1,
+                    "name": "Creative"
+                },
+                {
+                    "id": 2,
+                    "name": "Product"
+                }
+            ],
+            "authors": [
+                {
+                    "id": 1,
+                    "name": "Jim",
+                    "profile_photo": "./assets/images/author-3.jpg"
+                }
+            ],
+            "featured_image": "./assets/images/featured-2.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Perfection has to do with the end product",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "tags": [
+                {
+                    "id": 1,
+                    "name": "Design"
+                },
+                {
+                    "id": 2,
+                    "name": "Creative"
+                },
+                {
+                    "id": 3,
+                    "name": "Idea"
+                }
+            ],
+            "authors": [
+                {
+                    "id": 1,
+                    "name": "Jack",
+                    "profile_photo": "./assets/images/author-4.jpg"
+                }
+            ],
+            "featured_image": "./assets/images/featured-3.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Everyone has a different life story",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "tags": [
+                {
+                    "id": 1,
+                    "name": "People"
+                },
+                {
+                    "id": 2,
+                    "name": "Story"
+                }
+            ],
+            "authors": [
+                {
+                    "id": 1,
+                    "name": "Jack",
+                    "profile_photo": "./assets/images/author-2.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "Sarah",
+                    "profile_photo": "./assets/images/author-5.jpg"
+                }
+            ],
+            "featured_image": "./assets/images/featured-4.jpg"
+        },
+        {
+            "id": 5,
+            "title": "The difference is quality",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "tags": [
+                {
+                    "id": 1,
+                    "name": "Design"
+                },
+                {
+                    "id": 2,
+                    "name": "Lifestyle"
+                },
+                {
+                    "id": 3,
+                    "name": "Idea"
+                }
+            ],
+            "authors": [
+                {
+                    "id": 1,
+                    "name": "Jack",
+                    "profile_photo": "./assets/images/author-6.jpg"
+                }
+            ],
+            "featured_image": "./assets/images/featured-5.jpg"
+        } ,
+        {
+            "id":6, 
+            "title":" Your voice, your mind, your story, your vision" ,
+            "desc":"Nullam auctor nisi non tortor porta, id dapibus lectus rhoncus. Vivamus lobortis posuere enim finibus sodales. Phasellus quis tellus scelerisque, sagittis tortor et, maximus metus.",
+            "featured_image":"./assets/images/featured-6.jpg",
+            "authors":[
+                {
+                    "id":1,
+                    "name":"jesy",
+                    "profile_photo":"./assets/images/author-3.jpg"
+                }
+            ],
+            "tages":[
+                {
+                    "id":1,
+                    "name":"People"
+                },
+                {
+                    "id":2,
+                    "name": "Review"
+                },
+                {
+                    "id":3,
+                    "name": "Story"
+                }
+                
+               
+            ]
+        }
+               
+    ] 
+    ,
+             "the_writers":[
+                {
+                    "id":1,
+                    "name":"jani",
+                    "img":"./assets/images/author-5.jpg"
+                },
+                {
+                    "id":"2",
+                    "name":"jeley",
+                    "img":"./assets/images/author-4.jpg"
+                },
+                {
+                    "id":3,
+                    "name":"maya",
+                    "img":"./assets/images/author-3.jpg"
+                },
+                {
+                    "id":"4",
+                    "name":"jak",
+                    "img":"./assets/images/author-2.jpg"
+                }
+                ,{
+                    "id":"5",
+                    "name":"jon",
+                    "img":"./assets/images/author-1.jpg"
+                }
+            ]
+    ,
+    "Posts":[
+        
+        {
+            "id":1,
+            "title":"Creating is a privilege but it’s also a gift",
+            "desc":"Nullam vel lectus vel velit pellentesque dignissim nec id magna. Cras molestie ornare quam at semper. Proin a ipsum ex.Curabitur eu venenatis justo. Nullam felis augue, imperdiet at sodales a, sollicitudin nec risus.",
+            "thumb":"./assets/images/recent-1.jpg",
+            "authors":[
+                {
+                    "id":1,
+                    "name":"jani",
+                    "img":"./assets/images/author-5.jpg"
+                },
+                {
+                    "id":2,
+                    "name":"maya",
+                    "img":"./assets/images/author-3.jpg"
+                }
+            ],
+            "tages":[
+                {
+                    "id":1,
+                    "name": "Lifestyle"
+                },
+                {
+                    "id":2, 
+                    "name":"People"
+                },
+                {
+                    "id":3,
+                    "name":"Review"
+                }
+                
+            ]
+        },
+        {
+            "id":2,
+            "title":"Being unique is better than being perfect ",
+            "desc":"   Nam in pretium dui. Phasellus dapibus, mi at molestie cursus, neque eros aliquet nisi, non efficitur nisi est nec mi.Nullam semper, ligula a luctus ornare, leo turpis fermentum lectus, quis volutpat urna orci a lectus. Duis et odio lobortis, auctor justo ut, egestas magna.",
+            "thumb":"./assets/images/recent-2.jpg",
+            "authors":[
+                {
+                    "id":1,
+                    "name":"jani",
+                    "img":"./assets/images/author-5.jpg"
+                }
+            ],
+            "tages":[
+                {
+                    "id":1,
+                    "name":  "Design"
+                },
+                {
+                    "id":2,
+                    "name": "product"
+                },
+                {
+                    "id":3,
+                    "name":"ldea"
+                }
+            ]
+        
+        },
+        { 
+            "id":3,
+            "title":"Now we’re getting somewhere",
+            "desc":"Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec volutpat rhoncus quam,a feugiat elit gravida eget. Curabitur id pharetra ligula. Integer porttitor suscipit ante ac faucibus. Sed a enim non enim viverra pulvinar vel diam ut lorem congue feugiat.",
+            "thumb":"./assets/images/recent-3.jpg",
+            "authors":[
+                {
+                    "id":1,
+                    "name":"jon",
+                    "img":"./assets/images/author-1.jpg"
+                },
+                {
+                    "id":2,
+                    "name":"jani",
+                    "img":"./assets/images/author-5.jpg"
+                },
+                {
+                    "id":3,
+                    "name":"jak",
+                    "img":"./assets/images/author-2.jpg"
+                }
+            ],
+            "tages":[
+                {
+                    "id":1,
+                    "name":"ldea"
+                },
+                {
+                    "id":2,
+                    "name":"product"
+                },
+                {
+                    "id":3,
+                    "name": "Review"
+                }
+              
+               
+            ]
+        },
+        { 
+            "id":4,   
+            "title":" The trick to getting more done is to have the freedom to roam around",
+            "desc":"Integer nec mi cursus, blandit est et, auctor mauris. Aenean ex metus, faucibus in mattis at, tincidunt eu dolor. Cras hendrerit massa nec augue placerat rutrum. Sed facilisis massa enim, ac tempus diam elementum sit amet.",
+            "thumb":"./assets/images/recent-4.jpg",
+            "authors":[
+                {
+                    "id":1,
+                    "name":"maya",
+                    "img":"./assets/images/author-3.jpg"
+                }
+            ],
+            "tages":[
+                {
+                    "id":1,
+                    "name": "Lifestyle"
+                },
+                {
+                    "id":2,
+                    "name": "Design"
+                }
+               
+            ]
+        },
+        { 
+            "id":5,  
+            "title":"Every day, in every city and town across the country",
+            "desc":" Morbi a facilisis lectus. Ut eu dapibus risus, a interdum justo. Vestibulum volutpat velit ac tellus mollis, sit amet sodales metus elementum. Aliquam eu mi massa. Proin suscipit enim a pulvinar viverra.",
+            "thumb":"./assets/images/recent-5.jpg",
+            "authors":[
+                {
+                    "id":1,
+                    "name":"jesy",
+                    "img":"./assets/images/author-6.jpg"
+                },
+                {
+                    "id":2,
+                    "name":"jon",
+                    "img":"./assets/images/author-1.jpg"
+                }
+            ],
+            "tages":[
+                {
+                    "id":1,
+                    "name": "People"
+                },
+                {
+                    "id":2,
+                    "name":  "Story"
+                },
+                {
+                    "id":3,
+                    "name": "Lifestyle"
+                }
+              
+               
+                
+            ]
+        },
+        {
+            "id":6, 
+            "title":" Your voice, your mind, your story, your vision" ,
+            "desc":"Nullam auctor nisi non tortor porta, id dapibus lectus rhoncus. Vivamus lobortis posuere enim finibus sodales. Phasellus quis tellus scelerisque, sagittis tortor et, maximus metus.",
+            "thumb":"./assets/images/recent-6.jpg",
+            "authors":[
+                {
+                    "id":1,
+                    "name":"jesy",
+                    "img":"./assets/images/author-6.jpg"
+                }
+            ],
+            "tages":[
+                {
+                    "id":1,
+                    "name":"People"
+                },
+                {
+                    "id":2,
+                    "name": "Review"
+                },
+                {
+                    "id":3,
+                    "name": "Story"
+                }
+                
+               
+            ]
+        }
+    ]
+    ,
+    "Recommend":[
+        {
+            "id":1, 
+            "title":"  The trick to getting more done is to have the freedom to roam around",
+            "thumb":"./assets/images/recommended-1.jpg",
+            "authors":[
+                {
+                    "id":1,
+                    "name":"jani",
+                    "img":"./assets/images/author-5.jpg"
+                },
+                {
+                    "id":2,
+                    "name":"jak",
+                    "img":"./assets/images/author-2.jpg"
+                }
+            ]
+        },
+        {
+            "id":2, 
+            "title":" Every day, in every city and town across the country ",
+            "thumb":"./assets/images/recommended-2.jpg",
+            "authors":[
+                {
+                    "id":1,
+                    "name":"maya",
+                    "img":"./assets/images/author-3.jpg"
+                }
+            ]
+        },
+        {
+            "id":3, 
+            "title":"I work best when my space is filled with inspiration",
+            "thumb":"./assets/images/recommended-3.jpg",
+            "authors":[
+                {
+                    "id":1,
+                    "name":"jon",
+                    "img":"./assets/images/author-1.jpg"
+                }
+            ]
+        },
+        { "id":4,   
+            "title":" I have my own definition of minimalism",
+            "thumb":"./assets/images/recommended-4.jpg",
+            "authors":[
+                {
+                    "id":1,
+                    "name":"maya",
+                    "img":"./assets/images/author-3.jpg"
+                },
+                {
+                    "id":1,
+                    "name":"jeley",
+                    "img":"./assets/images/author-4.jpg"
+                }
+            ]
+        },
+        {
+            "id":5,   
+            "title":"Change your look and your attitude",
+            "thumb":"./assets/images/recommended-5.jpg",
+            "authors":[
+                {
+                    "id":1,
+                    "name":"jesy",
+                    "img":"./assets/images/author-6.jpg"
+                }
+            ]
+        },
+        {
+            "id":6, 
+            "title":"The difference is quality" ,
+            "thumb":"./assets/images/recommended-6.jpg",
+            "authors":[
+                {
+                    "id":1,
+                    "name":"maya",
+                    "img":"./assets/images/author-3.jpg"
+                }
+            ]
+        }
+    ]
+}
